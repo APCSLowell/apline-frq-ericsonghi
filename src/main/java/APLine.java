@@ -7,7 +7,7 @@ public class APLine {
     this.c = c;
   }
 
-  public double getSlope{
+  public double getSlope(){
     return (double) -a/b;
   }
 
